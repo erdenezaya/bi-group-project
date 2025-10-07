@@ -24,6 +24,12 @@
 - Rows: 199
 - COls: 437
 
+I used Column quality, Column distribution, Column profile while transforming data.
+
+Identified categorical:
+    - region
+    - income groups
+
 ### Metadata:
 - country
 - codewb
@@ -51,5 +57,20 @@
 
     - **report:**
     `“It is strongly encouraged to create a data dictionary (an explanation of each variable) to do so.”`
+
+3. draft dashboard
+
+![alt text](image-1.png)
+
+## 2nd(10/7) meeting minutes of the team BI-GROUP-PROJECT:
+done: data clean
+done: select the important 
+
+- Discuss and Agree on the research question 
+	- Huang: make it more specific more answereable questions. Gender gaps
+	- How did account owernership and digital payment use change from 2011 to 2025 across regions and income groups, and where do gender gaps persist or narrow
+- Task allocation 
+- Zaya will share the datasets and dashboard. 
+
 
 

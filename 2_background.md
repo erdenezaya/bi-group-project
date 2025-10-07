@@ -1,6 +1,8 @@
-## 2. Background
+<div style="page-break-before: always;"></div>
 
-### 2.1 Dataset Overview
+# 2. Background
+
+## 2.1 Dataset Overview
 The analysis in this project is based on the World Bank Global Findex Database (2025) which provides cross-country survey data on financial inclusion and the use of financial services.  
 The dataset contains thousands of observations, each representing responses from individuals across multiple countries, and includes variables relating to:
 
@@ -14,7 +16,7 @@ A **data dictionary** has been prepared (see Appendix) to explain each variable 
 
 ---
 
-### 2.2 Context of Financial Inclusion
+## 2.2 Context of Financial Inclusion
 Financial inclusion is increasingly recognised as a driver of economic growth and poverty reduction It enables individuals and businesses to access useful and affordable financial products and services, such as banking, credit, savings, and insurance.  
 Global Findex surveys highlight disparities across:
 
@@ -26,7 +28,7 @@ This context underscores the importance of understanding which factors drive or 
 
 ---
 
-### 2.3 Research Question(s)
+## 2.3 Research Question(s)
 For this project, we will investigate the following guiding question(s):
 
 - **Primary Question:**  
@@ -41,7 +43,7 @@ These questions are aligned with the unit learning outcomes and will guide both 
 
 ---
 
-### 2.4 Assumptions
+## 2.4 Assumptions
 To scope the analysis, we assume:  
 - Only the dataset provided via LMS will be used (not external downloads).  
 - Missing values represent either *non-response* or *no data collected* in that country/year.  
