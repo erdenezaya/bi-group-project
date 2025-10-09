@@ -7,14 +7,14 @@ This is **easier than working on Google Docs**:
 
 ## 1. Files
 Each part of the report is in its own file:
-- `0_title_page.md` -  #Zaya 
+- `0_title_page.md` -   # Zaya , project setup.
 - `1_introduction.md` - #  Brief. Purpose of the project, Problem defintion -> Zaya , Huang,
 - `2_background.md` -   #  Exploring dataset, how we collect, -> Huang Jinshu
 - `3_methodology.md` -  #  600words data pre-processing steps -> Huang(Data processing.), Gedion
 - `4_solution.md` -     #  Dashboard Gedion, Zaya
 - `5_discussion.md` -   #  -> All members 
 - `6_references.md`     #  -> All members should note own sources and put here.
-- `appendix.md`
+- `appendix.md`         
 
 ---
 
